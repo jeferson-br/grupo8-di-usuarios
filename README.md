@@ -64,7 +64,7 @@ Cria um usuário, salva no repositório e retorna o usuário criado.
 {
     "id": "1",
     "nome": "Jeferson",
-    "email": "Jeferson@email.com"
+    "email": "jeferson@email.com"
 }
 ```
 

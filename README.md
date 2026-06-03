@@ -63,8 +63,8 @@ Cria um usuário, salva no repositório e retorna o usuário criado.
 ```python
 {
     "id": "1",
-    "nome": "Ana",
-    "email": "ana@email.com"
+    "nome": "Jeferson",
+    "email": "Jeferson@email.com"
 }
 ```
 
@@ -80,8 +80,8 @@ manager = GerenciadorUsuarios(repo)
 
 usuario = manager.criar_usuario(
     "1",
-    "Ana",
-    "ana@email.com"
+    "Jeferson",
+    "jeferson@email.com"
 )
 
 print(usuario)
